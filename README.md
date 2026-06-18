@@ -99,7 +99,6 @@
   <img src="https://img.shields.io/badge/🎯_Target-Tech_Lead-00FF00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎨_Дизайн-Figma-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🐧_ОС-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/☕_Кофе-Жизненно_необходим-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=MAESTR1K&style=for-the-badge&color=blueviolet"/>
 </div>
 
