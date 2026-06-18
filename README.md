@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Привет%2C+я+Максим+Маслов;Backend+%26+Fullstack+разработчик;Студент+НовГУ+им.+Ярослава+Мудрого;Год+выпуска+2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Код+—+это+искусство;Я+—+его+маэстро;Backend+%26+Fullstack+разработчик" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <h1>MAESTR1K</h1>
-  <p><b>«Код — это искусство, а я — его маэстро»</b></p>
+  <h1>Маслов Максим</h1>
+  <p><b>«Код — это искусство, я — его маэстро»</b></p>
 </div>
 
 ---
@@ -16,11 +15,11 @@
   <table>
     <tr>
       <td>
-        <b>🎓 Студент:</b> Новгородский государственный университет<br>
-        <b>📅 Год выпуска:</b> 2028<br>
+        <b>🎯 Кто я:</b> Backend & Fullstack разработчик<br>
         <b>📍 Локация:</b> Россия, Великий Новгород<br>
         <b>🎯 Цель:</b> Стать Team Lead в топовой IT-компании<br>
-        <b>☕ Лайфстайл:</b> Код > Сон
+        <b>☕ Лайфстайл:</b> Код > Сон<br>
+        <b>⚡ Философия:</b> Loyalty before Royalty
       </td>
       <td>
         <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px"/>
@@ -42,12 +41,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
 </div>
 
 ---
 
-### 🏗️ Проекты, над которыми я работаю
+### 🏗️ Мои проекты
 
 <div align="center">
   <table>
@@ -64,13 +64,13 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌐 Restaurant Site (WIP)</h3>
+        <h3 align="center">🌐 Restaurant Site</h3>
         <div align="center">
           <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="80px"/>
-          <p><b>Stack:</b> HTML + CSS + JS | Figma</p>
-          <p><i>Сайт для ресторана с админ-панелью<br>и интеграцией с базой данных (в разработке)</i></p>
+          <p><b>Stack:</b> HTML + CSS + JS + MySQL | Figma</p>
+          <p><i>Веб-интерфейс для ресторанного бизнеса<br>на базе десктопного приложения</i></p>
           <a href="https://github.com/MAESTR1K/restaurant-site">
-            <img src="https://img.shields.io/badge/🚧_В_разработке-FF6B00?style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/🚀_Смотреть_проект-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
       </td>
@@ -93,13 +93,13 @@
 
 ---
 
-### 🏆 Достижения и бейджи
+### 🏆 Мои фишки
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎯_Target-Tech_Lead-00FF00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚_Студент-НовГУ-FF6B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎨_Дизайн-Figma-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🐧_ОС-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/☕_Кофе-Жизненно_необходим-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=MAESTR1K&style=for-the-badge&color=blueviolet"/>
 </div>
 
@@ -112,7 +112,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/MAESTR1K">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:maslovmaksim31122007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
