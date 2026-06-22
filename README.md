@@ -19,7 +19,7 @@
         <b>📍 Локация:</b> Россия, Великий Новгород<br>
         <b>🎯 Цель:</b> Стать Team Lead в топовой IT-компании<br>
         <b>☕ Лайфстайл:</b> Код > Лень<br>
-        <b>⚡ Философия:</b> Loyalty before Royalty
+        <b>⚡ Философия:</b> Loyalty before Royalty.
       </td>
       <td>
         <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px"/>
