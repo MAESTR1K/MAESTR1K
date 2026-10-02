@@ -66,8 +66,6 @@
           <p><i>Приложение для автоматизации ресторанного бизнеса:<br>учёт заказов, ингредиентов, кассиров и отчётность</i></p>
           <img src="https://img.shields.io/badge/🚧_В_разработке-FFA500?style=for-the-badge"/>
           <br><br>
-          <a href="https://github.com/MAESTR1K/restaurant-manager">
-            <img src="https://img.shields.io/badge/🚀_Смотреть_проект-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
       </td>
