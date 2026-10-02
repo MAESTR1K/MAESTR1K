@@ -99,11 +99,11 @@
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
             <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
           </p>
-          <a href="[https://github.com/MAESTR1K/vega-ppf](https://github.com/MAESTR1K/VEGA_SITE)">
+          <a href="https://github.com/MAESTR1K/VEGA_SITE">
             <img src="https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
           &nbsp;
-          <a href="[https://maestr1k.github.io/vega-ppf/](https://maestr1k.github.io/VEGA_SITE/)">
+          <a href="https://maestr1k.github.io/VEGA_SITE/">
             <img src="https://img.shields.io/badge/🚀_Живое_демо-00FF00?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </div>
