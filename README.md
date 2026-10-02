@@ -58,6 +58,8 @@
           <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="80px"/>
           <p><b>Stack:</b> C# + MySQL | WinForms</p>
           <p><i>Приложение для автоматизации ресторанного бизнеса:<br>учёт заказов, ингредиентов, кассиров и отчётность</i></p>
+          <img src="https://img.shields.io/badge/🚧_В_разработке-FFA500?style=for-the-badge"/>
+          <br><br>
           <a href="https://github.com/MAESTR1K/restaurant-manager">
             <img src="https://img.shields.io/badge/🚀_Смотреть_проект-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
@@ -67,17 +69,48 @@
         <h3 align="center">🌐 Restaurant Site</h3>
         <div align="center">
           <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="80px"/>
-          <p><b>Stack:</b> HTML + CSS + JS + MySQL | Figma</p>
+          <p><b>Stack:</b> HTML + CSS + JS + Figma</p>
           <p><i>Веб-интерфейс для ресторанного бизнеса<br>на базе десктопного приложения</i></p>
+          <img src="https://img.shields.io/badge/🚧_В_разработке-FFA500?style=for-the-badge"/>
+          <br><br>
           <a href="https://github.com/MAESTR1K/restaurant-site">
             <img src="https://img.shields.io/badge/🚀_Смотреть_проект-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="100%" colspan="2">
+        <h3 align="center">🏎️ VEGA PPF — сайт бренда защитных плёнок с 3D-конфигуратором</h3>
+        <div align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/3097/3097180.png" width="100px"/>
+          <p><b>Stack:</b> HTML + CSS + JS + Three.js + Node.js + Express + PostgreSQL</p>
+          <p>
+            <i>
+              Full-stack сайт для российского бренда антигравийных плёнок.<br>
+              <b>Что реализовано:</b> 3D-конфигуратор автомобиля на Three.js (100+ цветов с металликом и блёстками),
+              каталог товаров с фильтрами и поиском, корзина, регистрация с JWT-авторизацией, оформление заказа,
+              админ-панель (заказы, заявки, товары, загрузка фото, статистика), REST API на Express + PostgreSQL.
+            </i>
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+          </p>
+          <a href="https://github.com/MAESTR1K/vega-ppf">
+            <img src="https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          &nbsp;
+          <a href="https://maestr1k.github.io/vega-ppf/">
+            <img src="https://img.shields.io/badge/🚀_Живое_демо-00FF00?style=for-the-badge&logo=githubpages&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
-
 ---
 
 ### 📊 Статистика активности
