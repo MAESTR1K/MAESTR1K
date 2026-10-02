@@ -16,9 +16,10 @@
     <tr>
       <td>
         <b>🎯 Кто я:</b> Разработчик, который не ограничивает себя одним направлением<br>
+        <b>🎓 Учёба:</b> 3 курс, ПТК НовГУ (Политехнический колледж)<br>
+        <b>💻 Специализация:</b> C++ / OpenGL / веб-разработка<br>
         <b>📍 Локация:</b> Россия, Великий Новгород<br>
         <b>🎯 Цель:</b> Делать полезные и успешные проекты<br>
-        <b>☕ Лайфстайл:</b> Код > Лень<br>
         <b>⚡ Философия:</b> Loyalty before Royalty
       </td>
       <td>
@@ -33,19 +34,21 @@
 ### ⚡ Мой технологический арсенал
 
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -114,6 +117,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ### 📊 Статистика активности
@@ -132,7 +136,9 @@
 ### 🏆 Мои фишки
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_Target-Tech_Lead-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Цель-C++_Developer-00FF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎮_GameDev-OpenGL_|_Vulkan-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Web-Node.js_|_Express-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎨_Дизайн-Figma-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🐧_ОС-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=MAESTR1K&style=for-the-badge&color=blueviolet"/>
